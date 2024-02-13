@@ -12,8 +12,8 @@
 | <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />  | <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> |
 
 <br>
-## 구현 기능
 
+## 구현기능
 <img src="https://github.com/xJaMinx/Calculator/assets/113823512/11815498-8f93-48ba-a972-e046c91f6ffb"/>
 
 <br>
